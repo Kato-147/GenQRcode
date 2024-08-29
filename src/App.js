@@ -38,19 +38,20 @@ function App() {
 
   return (
     <div className="app">
-      <h1>QR Code Generator</h1>
+      <h1>Tạo mã QR</h1>
+      <p>Web này Tỏn làm chơi chơi</p>
       <input
         type="text"
         value={url}
         onChange={(evt) => setUrl(evt.target.value)}
-        placeholder="Input text you want to gen"
+        placeholder="Nhập chữ dô đây"
       />
       
-      <button onClick={GenerateQRcode}>Generate</button>
+      <button onClick={GenerateQRcode}>Tạo mã</button>
       {/* eslint-disable-next-line */}
       {qrcode ? <>
         <img src={qrcode} />
-        <a href={qrcode} download='qrcode.png' >Down load QRCode</a>
+        <a href={qrcode} download='qrcode.png' >Tải dìa</a>
       </> : <>
       </>}
       <ToastContainer />

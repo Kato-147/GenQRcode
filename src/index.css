@@ -20,6 +20,11 @@ h1 {
   margin-bottom: 1rem;
 }
 
+p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
 input {
   appearance: none;
   outline: none;
