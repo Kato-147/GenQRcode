@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GenQRcode/static/css/main.2badd8f5.css",
-    "main.js": "/GenQRcode/static/js/main.9e435a22.js",
+    "main.css": "/GenQRcode/static/css/main.df4bb42e.css",
+    "main.js": "/GenQRcode/static/js/main.ed078680.js",
     "index.html": "/GenQRcode/index.html",
-    "main.2badd8f5.css.map": "/GenQRcode/static/css/main.2badd8f5.css.map",
-    "main.9e435a22.js.map": "/GenQRcode/static/js/main.9e435a22.js.map"
+    "main.df4bb42e.css.map": "/GenQRcode/static/css/main.df4bb42e.css.map",
+    "main.ed078680.js.map": "/GenQRcode/static/js/main.ed078680.js.map"
   },
   "entrypoints": [
-    "static/css/main.2badd8f5.css",
-    "static/js/main.9e435a22.js"
+    "static/css/main.df4bb42e.css",
+    "static/js/main.ed078680.js"
   ]
 }
