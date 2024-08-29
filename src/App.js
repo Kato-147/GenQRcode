@@ -47,7 +47,6 @@ function App() {
       />
       
       <button onClick={GenerateQRcode}>Generate</button>
-      // eslint-disable-next-line
       {qrcode ? <>
         <img src={qrcode} />
         <a href={qrcode} download='qrcode.png' >Down load QRCode</a>
