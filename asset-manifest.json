@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GenQRcode/static/css/main.2badd8f5.css",
+    "main.js": "/GenQRcode/static/js/main.9e435a22.js",
+    "index.html": "/GenQRcode/index.html",
+    "main.2badd8f5.css.map": "/GenQRcode/static/css/main.2badd8f5.css.map",
+    "main.9e435a22.js.map": "/GenQRcode/static/js/main.9e435a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2badd8f5.css",
+    "static/js/main.9e435a22.js"
+  ]
+}
